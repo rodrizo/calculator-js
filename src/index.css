@@ -49,3 +49,11 @@ button:hover{
   border-radius: 1em;
   padding: 1em;
 }
+
+.result{
+  color: white;
+  display: flex;
+  justify-content: flex-end;
+  margin-right: 1em;
+  font-size: 3em;
+}
